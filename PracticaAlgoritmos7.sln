@@ -3,12 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaAlgoritmos7", "PracticaAlgoritmos7\PracticaAlgoritmos7.csproj", "{97209A93-6F18-4EE6-80E2-D7202F283CAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaAlgoritmos7", "PracticaAlgoritmos7\PracticaAlgoritmos7.csproj", "{97209A93-6F18-4EE6-80E2-D7202F283CAA}"
 	ProjectSection(ProjectDependencies) = postProject
-		{8635DF79-0671-4FAF-BBA2-71A925306B2F} = {8635DF79-0671-4FAF-BBA2-71A925306B2F}
+		{E69241BC-A297-46A5-AF57-3225D0B66B12} = {E69241BC-A297-46A5-AF57-3225D0B66B12}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nito.Collections.Deque", "..\..\..\Downloads\Deque-master\src\Nito.Collections.Deque\Nito.Collections.Deque.csproj", "{8635DF79-0671-4FAF-BBA2-71A925306B2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nito.Collections.Deque", "Deque-master\src\Nito.Collections.Deque\Nito.Collections.Deque.csproj", "{E69241BC-A297-46A5-AF57-3225D0B66B12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +20,10 @@ Global
 		{97209A93-6F18-4EE6-80E2-D7202F283CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97209A93-6F18-4EE6-80E2-D7202F283CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97209A93-6F18-4EE6-80E2-D7202F283CAA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8635DF79-0671-4FAF-BBA2-71A925306B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8635DF79-0671-4FAF-BBA2-71A925306B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8635DF79-0671-4FAF-BBA2-71A925306B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8635DF79-0671-4FAF-BBA2-71A925306B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E69241BC-A297-46A5-AF57-3225D0B66B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69241BC-A297-46A5-AF57-3225D0B66B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69241BC-A297-46A5-AF57-3225D0B66B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69241BC-A297-46A5-AF57-3225D0B66B12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

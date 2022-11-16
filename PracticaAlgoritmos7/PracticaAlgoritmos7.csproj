@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Downloads\Deque-master\src\Nito.Collections.Deque\Nito.Collections.Deque.csproj" />
+    <ProjectReference Include="..\Deque-master\src\Nito.Collections.Deque\Nito.Collections.Deque.csproj" />
   </ItemGroup>
 
 </Project>
